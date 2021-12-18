@@ -1,0 +1,38 @@
+[
+        {
+            "id": 1,
+            "name": "Strode Home",
+            "image": "https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzLzhiMGJiYjlkZDQ1ZGM1N2Y0NV9UaGUgTXllcnMgSG91c2UgTkMgIDAzNy5qcGciXSxbInAiLCJ0aHVtYiIsIjU4MHg1ODAjIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDgxIC1hdXRvLW9yaWVudCJdXQ",
+            "rating": 4.5,
+            "size": "275 ft²",
+            "rooms": 3,
+            "baths": 2,
+            "direction": "1520 Lampkin Ln.",
+            "price": "$456.70",
+            "favorite": false
+        },
+        {
+            "id": 2,
+            "name": "Carl's Dream Home",
+            "image": "https://i.pinimg.com/originals/78/56/38/7856389590a17be96879315199110c3f.jpg",
+            "rating": 4.7,
+            "size": "275 ft²",
+            "rooms": 4,
+            "baths": 2,
+            "direction": "18 Paradise Falls",
+            "price": "$1050.00",
+            "favorite": true
+        },
+        {
+            "id": 3,
+            "name": "Counseler Cabain",
+            "image": "https://cdn.greatlifepublishing.net/wp-content/uploads/sites/4/2019/12/27213339/5-13-728x484.jpg",
+            "rating": 3.6,
+            "size": "1375 ft²",
+            "rooms": 6,
+            "baths": 4,
+            "direction": "12 Crystal Lake",
+            "price": "$1300.13",
+            "favorite": false
+        }
+    ]
